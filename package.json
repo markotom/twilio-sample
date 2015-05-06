@@ -1,0 +1,16 @@
+{
+  "name": "twilio-test",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node app"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "dependencies": {
+    "faker": "^2.1.2",
+    "twilio": "git://github.com/kwhinnery/twilio-node.git"
+  }
+}
